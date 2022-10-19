@@ -1,4 +1,4 @@
-#Python If-Else
+#hacker rank python introduction
 #!/bin/python3
 
 import math
