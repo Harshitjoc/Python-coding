@@ -1,4 +1,4 @@
-#hacker rank python introduction
+#hacker rank python question
 #!/bin/python3
 
 import math
